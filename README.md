@@ -1,1 +1,1 @@
-# snake_gameThis is a simple snake game that I coded in c language for my midterm project.
+This is a simple snake game that I coded in c language for my midterm project.
